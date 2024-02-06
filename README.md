@@ -1,2 +1,1 @@
-# first
-test of git
+My new README
